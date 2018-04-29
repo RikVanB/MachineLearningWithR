@@ -4,3 +4,5 @@ bepalen welke soort Iris het is
 
 Tutorials
 In de map tutorials vind je een overzicht terug van de verschillende tutorials die ik gevolgd heb via de PluralSight courses.
+
+Demo is gebasseerd op de cursus Data Science With R - Matthew Renze
